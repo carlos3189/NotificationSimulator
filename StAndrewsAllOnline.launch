@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/NotificationSimulator/src/com/ubhave/notificationsim/Main.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.ubhave.notificationsim.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--location --accVar --question_type --timestamp --user_id --weekend -filename &quot;/home/staff/pejovicv/Dropbox/MyCode/UBhave/scripts/StAndrewsAnalysis/events_user_all.arff&quot; -seconds -cutoff 5 -burnin 0 -answer_thold 15 -online -classifier_list &quot;moa.classifiers.functions.MajorityClass&quot;  &quot;moa.classifiers.bayes.NaiveBayes&quot; &quot;moa.classifiers.trees.HoeffdingTree&quot; &quot;moa.classifiers.meta.OzaBoost&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="NotificationSimulator"/>
+</launchConfiguration>

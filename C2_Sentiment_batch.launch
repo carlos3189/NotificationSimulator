@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/NotificationSimulator/src/com/ubhave/notificationsim/Main.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.ubhave.notificationsim.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--c2 --o2 -filename &quot;/home/staff/pejovicv/Dropbox/MyCode/UBhave/scripts/SampleMeAnalysis/ExtractFromMongoToArff/SampleMe_all_Sep2.arff&quot;  -cutoff 1 -answer_thold 3 -classifier_list &quot;weka.classifiers.rules.ZeroR&quot; &quot;weka.classifiers.bayes.BayesNet -D -Q weka.classifiers.bayes.net.search.local.K2 -- -P 1 -S BAYES -E weka.classifiers.bayes.net.estimate.SimpleEstimator -- -A 0.5&quot; &quot;weka.classifiers.meta.AdaBoostM1 -P 100 -S 1 -I 10 -W weka.classifiers.trees.DecisionStump&quot; &quot;weka.classifiers.bayes.NaiveBayes&quot;"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="NotificationSimulator"/>
+</launchConfiguration>

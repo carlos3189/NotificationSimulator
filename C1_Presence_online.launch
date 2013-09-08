@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<launchConfiguration type="org.eclipse.jdt.launching.localJavaApplication">
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_PATHS">
+<listEntry value="/NotificationSimulator/src/com/ubhave/notificationsim/Main.java"/>
+</listAttribute>
+<listAttribute key="org.eclipse.debug.core.MAPPED_RESOURCE_TYPES">
+<listEntry value="1"/>
+</listAttribute>
+<stringAttribute key="org.eclipse.jdt.launching.MAIN_TYPE" value="com.ubhave.notificationsim.Main"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROGRAM_ARGUMENTS" value="--c1 --o1  --timestamp --user_id -filename  &quot;/home/staff/pejovicv/Dropbox/MyCode/UBhave/scripts/SampleMeAnalysis/ExtractFromMongoToArff/SampleMe_all_Aug27.arff&quot; -cutoff 1 -burnin 0 -answer_thold 15 -online -classifier_list &quot;moa.classifiers.functions.MajorityClass&quot;  &quot;moa.classifiers.bayes.NaiveBayes&quot; &quot;moa.classifiers.trees.HoeffdingTree&quot; &quot;moa.classifiers.meta.OzaBoost&quot; -deadline 48 -accuracy_thold 0.8"/>
+<stringAttribute key="org.eclipse.jdt.launching.PROJECT_ATTR" value="NotificationSimulator"/>
+</launchConfiguration>
